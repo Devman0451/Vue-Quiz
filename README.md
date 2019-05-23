@@ -36,7 +36,7 @@ npm run lint
 ## Built With
 
 * Vue
-* Redux
+* Bootstrap-Vue
 
 ## Contributors
 
